@@ -103,8 +103,6 @@ button:active {
   display: block;
   text-decoration: none;
   padding: 2px;
-  height: 107px;
-  overflow: hidden;
 }
 
 .content__card-link:active {
